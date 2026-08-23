@@ -337,3 +337,4 @@ https://github.com/harshbhatt15/Deep_Learning/blob/main/Autoencoders_types/Autoe
 ## 👨‍💻 Author
 
 **Harsh Bhatt**
+**BCA**
