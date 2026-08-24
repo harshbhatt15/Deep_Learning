@@ -1,4 +1,4 @@
-# Autoencoder Practical 1
+# Autoencoder
 
 ## 📌 Overview
 
